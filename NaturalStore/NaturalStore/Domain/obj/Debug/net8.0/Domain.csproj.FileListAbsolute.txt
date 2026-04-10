@@ -1,0 +1,12 @@
+/home/marcos/Documentos/GitHub/NaturalStore/NaturalStore/Domain/bin/Debug/net8.0/Domain.deps.json
+/home/marcos/Documentos/GitHub/NaturalStore/NaturalStore/Domain/bin/Debug/net8.0/Domain.dll
+/home/marcos/Documentos/GitHub/NaturalStore/NaturalStore/Domain/bin/Debug/net8.0/Domain.pdb
+/home/marcos/Documentos/GitHub/NaturalStore/NaturalStore/Domain/obj/Debug/net8.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/marcos/Documentos/GitHub/NaturalStore/NaturalStore/Domain/obj/Debug/net8.0/Domain.AssemblyInfoInputs.cache
+/home/marcos/Documentos/GitHub/NaturalStore/NaturalStore/Domain/obj/Debug/net8.0/Domain.AssemblyInfo.cs
+/home/marcos/Documentos/GitHub/NaturalStore/NaturalStore/Domain/obj/Debug/net8.0/Domain.csproj.CoreCompileInputs.cache
+/home/marcos/Documentos/GitHub/NaturalStore/NaturalStore/Domain/obj/Debug/net8.0/Domain.sourcelink.json
+/home/marcos/Documentos/GitHub/NaturalStore/NaturalStore/Domain/obj/Debug/net8.0/Domain.dll
+/home/marcos/Documentos/GitHub/NaturalStore/NaturalStore/Domain/obj/Debug/net8.0/refint/Domain.dll
+/home/marcos/Documentos/GitHub/NaturalStore/NaturalStore/Domain/obj/Debug/net8.0/Domain.pdb
+/home/marcos/Documentos/GitHub/NaturalStore/NaturalStore/Domain/obj/Debug/net8.0/ref/Domain.dll
