@@ -12,9 +12,9 @@ SAMPLES_PER_SIGN = 200
 OUTPUT_PATH = "data/processed/dataset.csv"
 
 # J and Z require motion — a single frame cannot represent them
-SIGNS = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "K",
+SIGNS = ["A", "B", "C", "D", "E", "F", "G", "I",
          "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U",
-         "V", "W", "X", "Y"]
+         "V", "W"]
 
 
 def setup_output_file():
